@@ -1,7 +1,6 @@
 ## Howdy!
 - 👋 Hi, I’m Asa
-- 👀 I’m interested in juggling, drumming, and fermenting
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in juggling, drumming, food & drink, and history
 - 📫 You can reach me at aekengren@pm.me
 
 ## Links
