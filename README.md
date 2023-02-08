@@ -1,6 +1,6 @@
 ## Howdy!
 - 👋 Hi, I’m Asa
-- 👀 I’m interested in DITA XML, headless content management, information architecture, juggling, drumming, food & drink, and history
+- 👀 I’m interested in DITA XML, information architecture, juggling, drumming, food & drink, and history
 - 📫 You can reach me at aekengren@pm.me
 
 ## Links
