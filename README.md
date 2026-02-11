@@ -4,4 +4,4 @@
 - 📫 You can reach me at aekengren@pm.me
 
 ## Links
-[Personal GitHub Page](https://asaekengren.github.io)  
+[Personal website](https://aekengren.com)  
